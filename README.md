@@ -42,3 +42,4 @@ They will compile the CSS files and copy the resulting CSS files to the correct 
 build.bat
 ```
 
+sass --update themes/kemoms/kemoms-light/theme.scss:themes/kemoms/kemoms-light/theme.css

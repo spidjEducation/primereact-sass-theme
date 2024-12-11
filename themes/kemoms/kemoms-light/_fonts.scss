@@ -1,0 +1,30 @@
+/* Montserrat-Regular */
+@font-face {
+    font-family: "Montserrat-Regular";
+    src: url("./fonts/Montserrat-Regular.otf") format("opentype"),
+         url("./fonts/Montserrat-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* Montserrat-Bold */
+@font-face {
+    font-family: "Montserrat-Bold";
+    src: url("./fonts/Montserrat-Bold.otf") format("opentype"),
+         url("./fonts/Montserrat-Bold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* Neris-Black */
+@font-face {
+    font-family: "Neris-Black";
+    src: url("./fonts/Neris-Black.otf") format("opentype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* Neris-SemiBold */
+@font-face {
+    font-family: "Neris-SemiBold";
+    src: url("./fonts/Neris-SemiBold.otf") format("opentype");
+    font-style: normal;
+    font-weight: normal;
+}
